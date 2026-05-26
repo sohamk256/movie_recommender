@@ -6,3 +6,5 @@ for the data part i pulled the data from the tmdb API key
 the data is of bollywood movies till the latest ones
 
 i build a recommender model
+for this model i had to do vectorization of the categorical data 
+learnt some modules of scikit learn 
