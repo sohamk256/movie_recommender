@@ -132,8 +132,8 @@ python-dotenv
 
 ## 🙋‍♂️ Author
 
-**Soham** — First Year CSE Student, VIT Pune  
-Building toward a career in Data Science & ML 🚀
+**Soham**
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-your--username-black?logo=github)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
