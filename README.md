@@ -132,14 +132,7 @@ python-dotenv
 
 ## 🙋‍♂️ Author
 
-**Soham**
+**Soham Kale**
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
